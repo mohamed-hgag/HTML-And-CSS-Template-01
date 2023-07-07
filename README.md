@@ -1,3 +1,2 @@
-﻿# Leon - Agency Template
-HTML & CSS Practice - Template 01 br
-Free PSD web templates - From Graphberry.com
+﻿# Leon - Free Agency Template From Graphberry.com
+HTML & CSS Practice - Template 01
